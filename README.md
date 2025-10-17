@@ -3,7 +3,7 @@
 - **Instituição:** Pontifícia Universidade Católica do Paraná    
 - **Professor:** Andrey Cabral Meira
 - **Alunos:**
-  - Bruno Danguy Bortolini — [@]()   
+  - Bruno Danguy Bortolini — [@snowpuf](https://github.com/snowpuf)   
   - Victor Augusto Esmaniotto — [@Vitinnn123](https://github.com/Vitinnn123)  
 ---
 
