@@ -1,4 +1,4 @@
-# TDE - 2 MAPEAMENTO MEMORIA CACHE
+# TDE 2 - MAPEAMENTO MEMORIA CACHE
 - **Disciplina:** Performance em Sistemas Ciberfísicos
 - **Instituição:** Pontifícia Universidade Católica do Paraná    
 - **Professor:** Andrey Cabral Meira
