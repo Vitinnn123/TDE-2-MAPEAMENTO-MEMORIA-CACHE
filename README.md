@@ -78,7 +78,7 @@ Com esse projeto deu pra entender bem como cada algoritmo de substituição trab
 
 ## Link Video!
 
-
+https://youtu.be/Dusq7THVcz4?si=oTX7vZbO0_zTVpnt
 
 ---
 
