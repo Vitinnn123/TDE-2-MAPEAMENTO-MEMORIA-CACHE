@@ -76,6 +76,12 @@ Com esse projeto deu pra entender bem como cada algoritmo de substituição trab
 
 ---
 
+## Link Video!
+
+
+
+---
+
 ## Licença
 
 Este projeto foi desenvolvido **exclusivamente para fins educacionais** na disciplina de *Performance em Sistemas Ciberfísicos* da Pontifícia Universidade Católica do Paraná.
