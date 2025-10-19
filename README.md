@@ -17,9 +17,10 @@ O objetivo deste projeto é compreender e comparar o funcionamento das política
 ```
 /Projeto Mapeamento Memória Cache
 └── README.md (Documentação do projeto)
-  /Código completo
-  ├── Main.java
-  └──
+  /Código completo (Comentado)
+  └── Main.java
+  /Código completo (Não Comentado)
+  └── Main.java
 ```
 
 ---
